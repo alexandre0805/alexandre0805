@@ -1,6 +1,6 @@
 <div align="left">  
   <h1>Oi sou o Alexandre Alves 😎👨‍💻👍</h1>  
-  <h3>(Perfil novo, o anterior der ruim 😒)</h3>  
+  <h2>(Perfil novo, o anterior der ruim 😒)</h2>  
 </div>
 
 ###
@@ -25,4 +25,4 @@
 
 
 ###
-<h3>E ai? Está esperando o que? Entre em contato 📲
+<h2>E ai? Está esperando o que? Entre em contato 📲</h2>
