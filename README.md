@@ -1,6 +1,7 @@
 <div align="left">  
   <h1>Oi sou o Alexandre Alves 😎👨‍💻👍</h1>  
   <h2>(Perfil novo, o anterior der ruim 😒)</h2>  
+  <h2>Ainda em reconstrução, trazendo os projetos, etc.😢</h2>
 </div>
 
 ###
